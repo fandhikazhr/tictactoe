@@ -11,3 +11,5 @@ First compile file `tictactoe.cpp`
 ```
 clang++ -Wall -std=c++11 tictactoe.cpp -o tictactoe
 ```
+
+❗❗❗ If you got some warning like this
