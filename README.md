@@ -22,6 +22,7 @@ Select the column number you want to fill
 
 7️⃣ 8️⃣ 9️⃣
 
-- <kbd>X</kbd>
+- <kbd>X</kbd> is Player 1
+- <kbd>O</kbd> is Player 2
 
 ## Preview
