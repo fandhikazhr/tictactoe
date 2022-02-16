@@ -26,3 +26,5 @@ Select the column number you want to fill
 - <kbd>O</kbd> is Player 2
 
 ## Preview
+
+![tictactoe](https://user-images.githubusercontent.com/99522867/154369262-19501821-66a0-4c37-b4cc-cbcb42a8d44e.gif)
