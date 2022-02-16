@@ -22,4 +22,6 @@ Select the column number you want to fill
 
 7️⃣ 8️⃣ 9️⃣
 
+- <kbd>X</kbd>
+
 ## Preview
