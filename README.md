@@ -11,4 +11,9 @@ First compile file `tictactoe.cpp`
 ```
 clang++ -Wall -std=c++11 tictactoe.cpp -o tictactoe
 ```
+
+## How to play
+
+Select the column number you want to fill
+
 ## Preview
