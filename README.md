@@ -16,10 +16,10 @@ clang++ -Wall -std=c++11 tictactoe.cpp -o tictactoe
 
 Select the column number you want to fill
 
-1️⃣2️⃣3️⃣
+1️⃣ 2️⃣ 3️⃣
 
-4️⃣5️⃣6️⃣
+4️⃣ 5️⃣ 6️⃣
 
-7️⃣8️⃣9️⃣
+7️⃣ 8️⃣ 9️⃣
 
 ## Preview
